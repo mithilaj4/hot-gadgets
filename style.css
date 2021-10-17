@@ -1,0 +1,135 @@
+.nav-img{
+    width: 130px;
+}
+    
+.bg-orange{
+    background-color: white;
+}
+
+
+
+.blue-bg{
+    
+    width:85%;
+    margin:auto;
+    
+}
+/*--
+.blue-bg p{
+    text-align: left;
+    font-size: 16px;
+    color: #777;
+    margin-top: 30px;
+    line-height: 25px;
+}
+--*/
+.blue-bg h1{
+    padding-bottom: 20px;
+}
+
+
+.buy-now-button{
+    padding: 9px 25px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(45deg, #FFCE1A, #f18306);
+    color: #fff;
+}
+
+.cyan-btn{
+    padding: 9px 25px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+    background: linear-gradient(45deg, #0AF1C6, #399BF6);
+    color: #fff;
+}
+
+
+.container{
+    margin-bottom: 120px;
+}
+
+
+
+.blue-bg{
+    margin-bottom: 120px;
+}
+
+
+.see-all{
+    color:#f18306;
+    font-weight: 700;
+}
+
+
+.card{
+    width:320px;
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    padding:20px 40px;
+    border-radius: 20px;
+    margin-top: 30px;
+    
+    
+}
+
+.card-title{
+    margin: auto;
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 18px;
+    font-weight: 500;
+}
+
+.card-text{
+    color: #777;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.card-but{
+    padding: 9px 16px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(45deg,rgb(49, 47, 47), black);
+    color: #fff;
+}
+
+.card-footer{
+    background: white;
+    border: none;
+
+}
+
+
+.price{
+    text-align: center;
+    
+}
+
+
+
+
+.margin{
+    margin-left: 20px;
+}
+
+.box{
+    box-shadow: 5px 5px 20px lightgrey;
+    border-radius: 20px;
+    margin:20px;
+    align-items: center;
+    width:150px;
+    height: 160px;
+    padding: 18px;
+    justify-content: center;
+    text-align: center;
+}
+
+.box h3{
+    padding-top:20px;
+}
+
